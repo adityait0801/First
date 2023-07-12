@@ -1,5 +1,5 @@
 import java.util.*;
-// Prime no. Program
+// Prime Program
 class Prime {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
